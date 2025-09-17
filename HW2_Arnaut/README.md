@@ -51,4 +51,4 @@ Output:  Decimal('2')
 * Elena Parshina - added product function
 * Arseniy Gubler - added divide function
 
-
+![alt text](imgs/image_2_2.png)
