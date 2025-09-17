@@ -43,17 +43,12 @@ Input:   6 / 3
 Output:  Decimal('2')
 ```
 
-## Requirements
+## Authors
 
-* Python 3.x
-* No external dependencies (uses only the built-in `decimal` module)
+* Oleg Arnaut - teamlead, added main function
+* Alevtina Pinova - added minus function
+* Elina Iskhakova - added plus function and wrote README file
+* Elena Parshina - added product function
+* Arseniy Gubler - added divide function
 
-## Notes
-
-* Division by zero is handled gracefully with an error message:
-
-  ```
-  делить на 0 нельзя!
-  ```
-* All calculations are done with `Decimal` for higher precision compared to `float`.
 
